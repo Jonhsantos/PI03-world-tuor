@@ -17,7 +17,7 @@ Para configurar e rodar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório e acesse a pasta:**
     ```bash
-    git clone [https://github.com/sua-org/agencia-turismo.git](https://github.com/sua-org/agencia-turismo.git)
+    git clone [https://github.com/EduardoFigueiredo05/pi03-world-tuor.git]
     cd agencia-turismo
     ```
 
