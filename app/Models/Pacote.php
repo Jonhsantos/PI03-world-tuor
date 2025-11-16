@@ -3,6 +3,7 @@
 namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use App\Models\Reserva;
 
 // Define a classe Pacote que representa um modelo Eloquent
 class Pacote extends Model
